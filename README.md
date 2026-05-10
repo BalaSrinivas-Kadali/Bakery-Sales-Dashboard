@@ -20,7 +20,8 @@ This project analyses bakery sales performance across multiple European cities u
 - Heatmaps & Scatter Plots
 
 ## Dashboard
-Interactive Streamlit dashboard developed for business decision-making and performance monitoring.
+An interactive Streamlit dashboard developed for business decision-making and performance monitoring.
+Here's the link - https://bakery-sales-dashboard-cmps5t9ny8kyxuochsttbk.streamlit.app/
 
 ## Author
 Bala Srinivas Kadali
