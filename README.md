@@ -21,7 +21,7 @@ This project analyses bakery sales performance across multiple European cities u
 
 ## Dashboard
 An interactive Streamlit dashboard developed for business decision-making and performance monitoring.
-Here's the link - https://bakery-sales-dashboard-cmps5t9ny8kyxuochsttbk.streamlit.app/
+Here's the link - https://bakery-sales-dashboard.streamlit.app/
 
 ## Author
 Bala Srinivas Kadali
